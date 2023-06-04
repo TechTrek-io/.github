@@ -7,5 +7,5 @@ This is inspired by [Feynman Technique](https://learning.subwiki.org/wiki/Feynma
 Subscribe the WeChat Channel:
 
 <a style="padding-left: 250px;" href="https://github.com/kerthcet">
-<img src="../snapshots/channel.jpeg" height=250>
+<img src="https://raw.githubusercontent.com/TechTrek-io/.github/main/snapshots/channel.jpeg" height=250>
 </a>
